@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "89b36a87-f234-4494-aae7-b3042b77638e"
+      }
+    },
+    "android": {
+      "package": "com.lerato.mokoena123.limkokwingv3"
+    }
+  }
+}
